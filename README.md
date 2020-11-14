@@ -1,4 +1,5 @@
 <p align="center"><img width=20% src="https://github.com/fernandoapparte/ballingfall/blob/main/spinner-fall-v1.png"></p>
+
 # BALLING FALL 
 > An improved Rotate Tower / hypercasual game made in Unity.
 
@@ -15,6 +16,7 @@
 # ESPAÑOL 
 
 <p align="center"><img width=20% src="https://github.com/fernandoapparte/ballingfall/blob/main/spinner-fall-v1.png"></p>
+
 # BALLING FALL 
 > Un juego de torres rotativas / hipercasual avanzado hecho en Unity.
 
