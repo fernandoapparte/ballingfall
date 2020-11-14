@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bf45a6e118244b4d9a0fbfd704df77a, type: 3}
+  m_Name: AppConfig
+  m_EditorClassIdentifier: 
+  CompanyName: Your Company Here
+  ProductName: Balling Fall
+  DisplayName: BALLING FALL!!!
+  ApplicationIdentifier: your.company.here
+  BundleVersion: 1.0
+  AndroidBundleVersionCode: 1
+  IconPath: Assets/Balling_Fall/Sprites/resources/myicon.png
+  IconSplashPath: Assets/Balling_Fall/Sprites/resources/mysplash.png
+  KeyAliasPass: ballingfall
+  KeystorePass: ballingfall
+  AndroidKeyAliasName: ballingfall
+  AndroidKeyAliasPass: ballingfall
+  AndroidKeystoreName: D:\\ESPACIO-TRABAJO\\20170502-KMFactory\\PROD\\539-helix-jumpy\\20201010-balling-fall-v1_0\\keystore\\MAIN-KEYSTORE.keystore
+  AndroidKeystorePass: ballingfall
+  DeployPath: other/balling-fall-release
+  AppUrl: ' https://play.google.com/store/apps/details?id=com.balling.fall'
+  FbAppId: 1013093142200006
+  FbSharedCaption: 'Check out My New Score: '
+  FbPictureUrl: http://i-cdn.phonearena.com/images/article/85835-thumb/Google-Pixel-3-codenamed-Bison-to-be-powered-by-Andromeda-OS.jpg
+  FbDescription: Enjoy Fun, free games! Challenge yourself or share with friends.     Fun
+    and easy to use games.
+  ScreenShotName: screenshot.png
+  ShareText: Can yo beat my score?
+  ShareSubject: Share Via
+  TwitterAddress: http://twitter.com/intent/tweet
+  TwitterTextToDisplay: 'Hey Guys! Check out my score:'
+  TwitterLanguage: en
+  AdmobAppId: ca-app-pub-3654628576200837~5267757484
+  BannerId: ca-app-pub-3654628576200837/7755972416
+  InterstitialId: ca-app-pub-3654628576200837/9476248197
+  RewardedVideoId: ca-app-pub-3654628576200837/9284676503

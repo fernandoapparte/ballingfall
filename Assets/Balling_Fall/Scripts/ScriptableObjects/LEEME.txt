@@ -1,0 +1,5 @@
+﻿20201007:
+Todas las clases ScriptableObject tienen como misión crear archivos .assets.
+Luego que cumplen su misión, ya no tienen uso (pero NO borrarlos porque son las plantillas de los assets(!))
+Sin embargo, es buena idea mantenerlo si desea uno crear nuevos Scriptable Objects basados en un formato.
+Los Assets tambien se pueden duplicar como se quiera y donde se quiera , configurarlos a gusto y usarlos

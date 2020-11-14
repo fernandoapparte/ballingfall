@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcb2c1389a9f93d4da4816490eb37d0c, type: 3}
+  m_Name: Level5
+  m_EditorClassIdentifier: 
+  MinLevel: 26
+  MaxLevel: 30
+  MinHelixNumber: 30
+  MaxHelixNumber: 40
+  MinDisablePiecesNumber: 2
+  MaxDisablePiecesNumber: 5
+  MinDeadPiecesNumber: 1
+  MaxDeadPiecesNumber: 2
+  MovPieces: 1
+  RandomValues: 0
+  OneDirection: 1
+  LerpMov: 1
+  percentMov: 80
+  angleMov: 90
+  velMov: 100
+  velLerp: 0.15
+  dstMeta: 1
+  MinTimeToPassLevel: 45
+  MaxTimeToPassLevel: 60
+  DeadPieceColor: {r: 0.9529412, g: 0.87058824, b: 0.17254902, a: 1}
+  NormalPieceColor: {r: 0.4862745, g: 0.70980394, b: 0.09411765, a: 1}
+  BrokenPieceColor: {r: 1, g: 0.3688525, b: 0, a: 1}
+  BallColor: {r: 0.9843137, g: 0.38039216, b: 0.02745098, a: 1}
+  PillarColor: {r: 0.36078432, g: 0.5019608, b: 0.003921569, a: 1}
